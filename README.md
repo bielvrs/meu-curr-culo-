@@ -1,4 +1,5 @@
 # Gabriel Vinicius Rodrigues De Sousa
+![foto](R.png)
 ## Contato
 ### Endereço:
 Avenida Paulista, 271
@@ -9,7 +10,8 @@ Avenida Paulista, 271
 ### gabrielvrs031@gmail.com
 
 ## Perfil Profissional
-> "Em algum lugar, algo incrível está esperando para ser descoberto." - Carls Sagan
+
+> "Programador, cursando desenovlvimento de sistemas, com a ambição de entrar no mercado de trabalho na área, enquanto desenvolvo códigos de programação que quero expor para gestão da empresa ao longo do período.
 
 ### Objetivo: Dev Front-End
 
